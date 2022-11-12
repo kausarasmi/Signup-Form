@@ -1,0 +1,19 @@
+.container{
+    padding: 50px;
+    position:relative;
+    text-align: center;
+    height: 50%;
+    width: auto;
+}
+img{
+    height: 580px;
+    width: 100%;
+    position: absolute;
+}
+.tacbox{
+    text-align: center;
+    position:sticky;
+}
+.red-color{
+    color:red;
+}
